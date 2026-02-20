@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
 :root {
   /* Colors */
   --theme-primary: hsl(0, 0%, 5%);
@@ -25,8 +27,8 @@
   --step-4: clamp(2.59rem, calc(2.01rem + 2.93vw), 5.53rem);
   --step-5: clamp(3.11rem, calc(2.26rem + 4.25vw), 7.37rem);
 
-  --font-family-heading: 'Roboto Flex', sans-serif;
-  --font-family-body: 'Open Sans', sans-serif;
+  --font-family-heading: 'Lexend Deca', sans-serif;
+  --font-family-body: 'Lexend', sans-serif;
 
   --body-max-width: 1920px;
 
